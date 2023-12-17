@@ -1,0 +1,1 @@
+mongod --configsvr --port 47017 --dbpath "C:\Users\USUARIO\OneDrive\Documentos\Ibero\6to\BDA\Actividades_BDA\Actividad 3 & 4\shard_data\config_server\data1" --replSet replica_atp_configserver1

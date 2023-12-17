@@ -1,0 +1,1 @@
+mongosh --host localhost:1000

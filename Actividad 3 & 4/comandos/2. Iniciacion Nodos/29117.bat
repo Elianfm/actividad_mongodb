@@ -1,0 +1,1 @@
+mongod --shardsvr --port 29117 --dbpath "C:\Users\USUARIO\OneDrive\Documentos\Ibero\6to\BDA\Actividades_BDA\Actividad 3 & 4\shard_data\shard3\data2" --replSet replica_atp_fragmento3

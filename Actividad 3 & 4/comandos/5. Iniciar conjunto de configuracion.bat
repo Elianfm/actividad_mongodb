@@ -1,0 +1,1 @@
+start mongos --configdb replica_atp_configserver1/localhost:47017,localhost:47117,localhost:47217 --port 1000
